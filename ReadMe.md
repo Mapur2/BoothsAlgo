@@ -77,6 +77,10 @@ Accumulator           QR         Qn Qn+1   Sequence Counter
 
 Result = 15
 ```
+### Sample of the Frame Class
+
+<img src="SS.PNG"/>
+
 
 ## Key Methods
 
